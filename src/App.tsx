@@ -18,6 +18,7 @@ function App() {
         <Hero />
         <NewCourses />
         <ExistingCourses />
+        <h1>Modified, is it syncing test!</h1>
       </div>
     </>
   )
